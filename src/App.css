@@ -1,3 +1,7 @@
+body {
+  font-family: 'Playfair Display', serif;
+}
+
 em {
   background: cyan;
   font-style: normal;
@@ -8,7 +12,7 @@ em {
   align-items: center;
   min-height: 50px;
   padding: 0.5rem 1rem;
-  background-image: linear-gradient(to right, #8e43e7, #00aeff);
+  background-color:#8e43e7;
   color: #fff;
   margin-bottom: 1rem;
 }
