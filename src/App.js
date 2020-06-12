@@ -95,7 +95,7 @@ export default App;
 //         </header>
 
 //         {/* <div style={{ height: 500 }}>
-//           <GoogleMapsLoader apiKey="AIzaSyCYmR6Qg-Z1QV3X_92NL_misV0CI0MO5L8">
+//           <GoogleMapsLoader apiKey="APIKEY">
 //             {google => (
 //               <GeoSearch google={window.google}>
 //                 {({ hits }) => (
@@ -133,7 +133,7 @@ export default App;
 //       </div>
 //       <InstantSearch indexName="AEROS" searchClient={searchClient}>
 //     <div style={{ height: 500 }}>
-//       <GoogleMapsLoader apiKey="AIzaSyCYmR6Qg-Z1QV3X_92NL_misV0CI0MO5L8">
+//       <GoogleMapsLoader apiKey="APIKEY">
 //         {google => (
 //           <GeoSearch
 //             google={google}
